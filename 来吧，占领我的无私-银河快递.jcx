@@ -27,7 +27,7 @@ V: 2 style=jianpu
 |"Em"V[axaxcxdxex] V[axbxcx/]U[axbxcx/]-V[axbxcx/]U[axbxcx/]V[axbxcx/]U[axbxcx/]|"Em"V[axaxcxdxex] V[axbxcx/]U[axbxcx/]-V[axbxcx/]U[axbxcx/]V[axbxcx/]U[axbxcx/]|
 |"Am"V[axaxcxdxex] V[axbxcx/]U[axbxcx/]-V[axbxcx/]U[axbxcx/]V[axbxcx/]U[axbxcx/]|"Am"V[axaxcxdxex] V[axbxcx/]U[axbxcx/]-V[axbxcx/]U[axbxcx/]V[axbxcx/]U[axbxcx/]|
 |"G"V[axaxcxdxex] V[axbxcx/]U[axbxcx/]-V[axbxcx/]U[axbxcx/]V[axbxcx/]U[axbxcx/]|"G"V[axaxcxdxex] V[axbxcx/]U[axbxcx/]-V[axbxcx/]U[axbxcx/]V[axbxcx/]U[axbxcx/]|
-|"C"V[axaxcxdxex]|
+|"C"V[axaxcxdxex]-V[axaxcxdxex]-V[axaxcxdxex]-V[axaxcxdxex]|
 
 
 
@@ -78,7 +78,7 @@ w:恨  你所 有  勉*   强
 w:   不 想看 到 你
   C//C//z/ C//B,//z/ B,//C//z/ |E/D/
 W:为了     别人      撒过       的谎
-z E/D/-D | C/C/-C-C-C | C-C-C
+z E/D/-D | C/C/-C-C-C 
 w:到处 *   疗伤
 
  
