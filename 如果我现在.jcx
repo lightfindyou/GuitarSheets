@@ -4,7 +4,8 @@ M: 4/4
 L: 1/4
 C:拍速:105
 C:靳晓忠
-K: B
+I:C调指法，变调夹夹4品
+K: E
 V: 1 style=tab
 V: 2 style=jianpu
 
@@ -21,7 +22,7 @@ V: 2 style=jianpu
 |"F"V[axaxcxdxex] V[axbxcx/]U[axbxcx/]-V[axbxcx/]U[axbxcx/]V[axbxcx/]U[axbxcx/]|"F"V[axaxcxdxex] V[axbxcx/]U[axbxcx/]-V[axbxcx/]U[axbxcx/]V[axbxcx/]U[axbxcx/]|
 |"C"V[axaxcxdxex] V[axbxcx/]U[axbxcx/]-V[axbxcx/]U[axbxcx/]V[axbxcx/]U[axbxcx/]|"C"V[axaxcxdxex] V[axbxcx/]U[axbxcx/]-V[axbxcx/]U[axbxcx/]V[axbxcx/]U[axbxcx/]|
 |"F"V[axaxcxdxex] V[axbxcx/]U[axbxcx/]-V[axbxcx/]U[axbxcx/]V[axbxcx/]U[axbxcx/]|"F"V[axaxcxdxex] V[axbxcx/]U[axbxcx/]-V[axbxcx/]U[axbxcx/]V[axbxcx/]U[axbxcx/]|
-|"Gsus4"V[axaxcxdxex] |
+|"C"V[axaxcxdxex] |
 
 
 [V: 2]
@@ -48,5 +49,5 @@ w:   在  你 眼 **  中
 w:  在 你  梦 *  里
 |z z/c/  c  E/-F/ |F/F/- F z z
 w:   在  你 心  **  底  
-|z/c/ c/c/ c/  c/-d/ d/-|d/-c/ c z z
-w: 我 曾是 那 唯     一
+|z/c/ c/c/ c/c/  -d-|d/-c/ c z z
+w: 我 曾是 那唯  一
