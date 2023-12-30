@@ -8,6 +8,8 @@ K: D
 V: 1 style=tab
 V: 2 style=jianpu
 
+%%achord Fsus2=1;X,X,3(3),1(1),2(2),1(1)
+
 [V: 1]
 |"G"V[axaxcxdxex]  z z z|
 |"C"V[axaxcxdxex] V[axbxcx/]V[axbxcx//]U[axbxcx//] V[bxcxdx/]U[bxcxdx/] V[axbxcx/]V[axbxcx//]U[axbxcx//]|
