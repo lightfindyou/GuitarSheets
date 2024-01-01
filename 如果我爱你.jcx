@@ -9,17 +9,18 @@ K: D
 V: 1 style=tab
 V: 2 style=jianpu
 
-%%achord Fsus2=1;X,X,3(3),1(1),2(2),1(1)
+%%gchord Fsus2=1;X,X,3,X,1,1
+
 
 [V: 1]
 |"G"V[axaxcxdxex]  z z z|
 |"C"V[axaxcxdxex] V[axbxcx/]V[axbxcx//]U[axbxcx//] V[bxcxdx/]U[bxcxdx/] V[axbxcx/]V[axbxcx//]U[axbxcx//]|
 |"Am"V[axaxcxdxex] V[axbxcx/]V[axbxcx//]U[axbxcx//] V[bxcxdx/]U[bxcxdx/] V[axbxcx/]V[axbxcx//]U[axbxcx//]|
-|"Fsus"V[axaxcxdxex] V[axbxcx/]V[axbxcx//]U[axbxcx//] V[bxcxdx/]U[bxcxdx/] V[axbxcx/]V[axbxcx//]U[axbxcx//]|
+|"Fsus2"V[axaxcxdxex] V[ax/bx/cx/]V[axbxcx//]U[axbxcx//] V[bxcxdx/]U[bxcxdx/] V[axbxcx/]V[axbxcx//]U[axbxcx//]|
 |"Dm"V[axaxcxdxex] V[axbxcx/]V[axbxcx//]U[axbxcx//] "G"V[bxcxdx/]U[bxcxdx/] V[axbxcx/]V[axbxcx//]U[axbxcx//]|
 |"C"V[axaxcxdxex] V[axbxcx/]V[axbxcx//]U[axbxcx//] V[bxcxdx/]U[bxcxdx/] V[axbxcx/]V[axbxcx//]U[axbxcx//]|
 |"Am"V[axaxcxdxex] V[axbxcx/]V[axbxcx//]U[axbxcx//] V[bxcxdx/]U[bxcxdx/] V[axbxcx/]V[axbxcx//]U[axbxcx//]|
-|"Fsus"V[axaxcxdxex] V[axbxcx/]V[axbxcx//]U[axbxcx//] V[bxcxdx/]U[bxcxdx/] V[axbxcx/]V[axbxcx//]U[axbxcx//]|
+|"Fsus2"V[axaxcxdxex] V[axbxcx/]V[axbxcx//]U[axbxcx//] V[bxcxdx/]U[bxcxdx/] V[axbxcx/]V[axbxcx//]U[axbxcx//]|
 |"Dm"V[axaxcxdxex] V[axbxcx/]V[axbxcx//]U[axbxcx//] "G"V[bxcxdx/]U[bxcxdx/] V[axbxcx/]V[axbxcx//]U[axbxcx//]|
 |"G"V[axaxcxdxex] V[axbxcx/]V[axbxcx//]U[axbxcx//] V[bxcxdx/]U[bxcxdx/] V[axbxcx/]V[axbxcx//]U[axbxcx//]|
 
