@@ -13,16 +13,16 @@ V: 2 style=jianpu
 
 
 [V: 1]
-|"G"V[axaxcxdxex]  z z z|
-|"C"V[axaxcxdxex] V[axbxcx/]V[axbxcx//]U[axbxcx//] V[bxcxdx/]U[bxcxdx/] V[axbxcx/]V[axbxcx//]U[axbxcx//]|
-|"Am"V[axaxcxdxex] V[axbxcx/]V[axbxcx//]U[axbxcx//] V[bxcxdx/]U[bxcxdx/] V[axbxcx/]V[axbxcx//]U[axbxcx//]|
-|"Fsus2"V[axaxcxdxex] V[ax/bx/cx/]V[axbxcx//]U[axbxcx//] V[bxcxdx/]U[bxcxdx/] V[axbxcx/]V[axbxcx//]U[axbxcx//]|
-|"Dm"V[axaxcxdxex] V[axbxcx/]V[axbxcx//]U[axbxcx//] "G"V[bxcxdx/]U[bxcxdx/] V[axbxcx/]V[axbxcx//]U[axbxcx//]|
-|"C"V[axaxcxdxex] V[axbxcx/]V[axbxcx//]U[axbxcx//] V[bxcxdx/]U[bxcxdx/] V[axbxcx/]V[axbxcx//]U[axbxcx//]|
-|"Am"V[axaxcxdxex] V[axbxcx/]V[axbxcx//]U[axbxcx//] V[bxcxdx/]U[bxcxdx/] V[axbxcx/]V[axbxcx//]U[axbxcx//]|
-|"Fsus2"V[axaxcxdxex] V[axbxcx/]V[axbxcx//]U[axbxcx//] V[bxcxdx/]U[bxcxdx/] V[axbxcx/]V[axbxcx//]U[axbxcx//]|
-|"Dm"V[axaxcxdxex] V[axbxcx/]V[axbxcx//]U[axbxcx//] "G"V[bxcxdx/]U[bxcxdx/] V[axbxcx/]V[axbxcx//]U[axbxcx//]|
-|"G"V[axaxcxdxex] V[axbxcx/]V[axbxcx//]U[axbxcx//] V[bxcxdx/]U[bxcxdx/] V[axbxcx/]V[axbxcx//]U[axbxcx//]|
+|"G"V[axaxcxdxex]  z z z
+|"C"V[axaxcxdxex] V[axbxcx/]V[axbxcx//]U[axbxcx//] V[bxcxdx/]U[bxcxdx/] V[axbxcx/]V[axbxcx//]U[axbxcx//]
+|"Am"V[axaxcxdxex] V[axbxcx/]V[axbxcx//]U[axbxcx//] V[bxcxdx/]U[bxcxdx/] V[axbxcx/]V[axbxcx//]U[axbxcx//]
+|"Fsus2"V[axaxcxdxex] V[ax/bx/cx/]V[axbxcx//]U[axbxcx//] V[bxcxdx/]U[bxcxdx/] V[axbxcx/]V[axbxcx//]U[axbxcx//]
+|"Dm"V[axaxcxdxex] V[axbxcx/]V[axbxcx//]U[axbxcx//]  "G"V[bxcxdx/]U[bxcxdx/] V[axbxcx/]V[axbxcx//]U[axbxcx//]
+|"C"V[axaxcxdxex] V[axbxcx/]V[axbxcx//]U[axbxcx//] V[bxcxdx/]U[bxcxdx/] V[axbxcx/]V[axbxcx//]U[axbxcx//]
+|"Am"V[axaxcxdxex] V[axbxcx/]V[axbxcx//]U[axbxcx//] V[bxcxdx/]U[bxcxdx/] V[axbxcx/]V[axbxcx//]U[axbxcx//]
+|"Fsus2"V[axaxcxdxex] V[axbxcx/]V[axbxcx//]U[axbxcx//] V[bxcxdx/]U[bxcxdx/] V[axbxcx/]V[axbxcx//]U[axbxcx//]
+|"Dm"V[axaxcxdxex] V[axbxcx/]V[axbxcx//]U[axbxcx//]  "G"V[bxcxdx/]U[bxcxdx/] V[axbxcx/]V[axbxcx//]U[axbxcx//]
+|"G"V[axaxcxdxex] z z z 
 
 
 
@@ -30,11 +30,11 @@ V: 2 style=jianpu
 
 [V: 2]
 %主歌
-|z z z/G,/ A,/G,/ | D/C/-C
+z z z/G,/ A,/G,/ | D/C/-C
 w:如果我爱你
  z/G,/ C/G,/|  B,/B,/ B,/C//A,//- A,/E,/
 w:和你倾听风的呼吸           *       如
-   G,/E,/| B/>A,/- A,
+   G,/E,/| B,/>A,/- A,
 w:果我     爱你
  z/A/ G/A/| G/F/ z//E//-F//D//- D/G,/
 w: 心 事无  声的默  *   契  *  如
