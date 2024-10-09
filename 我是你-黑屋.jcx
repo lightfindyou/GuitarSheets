@@ -2,7 +2,7 @@
 T: 我是你
 M: 4/4
 L: 1/4
-C:拍速:14
+C:拍速:146
 C:靳晓忠
 K: Bb
 V: 1 style=tab
@@ -21,49 +21,39 @@ V: 2 style=jianpu
 
 |"G"V[dxexfx] "C"V[axbxcx/]U[axbxcx/]-V[axbxcx/]U[axbxcx/]V[axbxcx/]U[axbxcx/]|"C"V[axaxcxdxex] V[axbxcx/]U[axbxcx/]-V[axbxcx/]U[axbxcx/]V[axbxcx/]U[axbxcx/]|
 |"Em"V[axaxcxdxex] V[axbxcx/]U[axbxcx/]-V[axbxcx/]U[axbxcx/]V[axbxcx/]U[axbxcx/]|"Em"V[axaxcxdxex] V[axbxcx/]U[axbxcx/]-V[axbxcx/]U[axbxcx/]V[axbxcx/]U[axbxcx/]|
-|"Am"V[axaxcxdxex] V[axbxcxdxex]-V[axbxcx/]U[axbxcx/]V[axbxcx/]U[axbxcx/]|"Am"V[axaxcxdxex] V[axbxcx/]U[axbxcx/]-V[axbxcx/]U[axbxcx/]V[axbxcx/]U[axbxcx/]|
-|"G"V[axaxcxdxex] V[axbxcx/]U[axbxcx/]-V[axbxcx/]U[axbxcx/]V[axbxcx/]U[axbxcx/]|"G"V[axaxcxdxex] V[axbxcx/]U[axbxcx/]-V[axbxcx/]U[axbxcx/]V[axbxcx/]U[axbxcx/]|
-
-|"C"V[axaxcxdxex] V[axbxcx/]U[axbxcx/]-V[axbxcx/]U[axbxcx/]V[axbxcx/]U[axbxcx/]|"C"V[axaxcxdxex] V[axbxcx/]U[axbxcx/]-V[axbxcx/]U[axbxcx/]V[axbxcx/]U[axbxcx/]|
-|"Em"V[axaxcxdxex] V[axbxcx/]U[axbxcx/]-V[axbxcx/]U[axbxcx/]V[axbxcx/]U[axbxcx/]|"Em"V[axaxcxdxex] V[axbxcx/]U[axbxcx/]-V[axbxcx/]U[axbxcx/]V[axbxcx/]U[axbxcx/]|
-|"Am"V[axaxcxdxex] V[axbxcx/]U[axbxcx/]-V[axbxcx/]U[axbxcx/]V[axbxcx/]U[axbxcx/]|"Am"V[axaxcxdxex] V[axbxcx/]U[axbxcx/]-V[axbxcx/]U[axbxcx/]V[axbxcx/]U[axbxcx/]|
-|"G"V[axaxcxdxex] V[axbxcx/]U[axbxcx/]-V[axbxcx/]U[axbxcx/]V[axbxcx/]U[axbxcx/]|"G"V[axaxcxdxex] V[axbxcx/]U[axbxcx/]-V[axbxcx/]U[axbxcx/]V[axbxcx/]U[axbxcx/]|
-
-|"C"V[axaxcxdxex]-V[axaxcxdxex]-V[axaxcxdxex]-V[axaxcxdxex]|
-
 
 
 
 [V: 2]
   z/c/ c/B/ B/A/ A/G/|
 w:你 平 静 望 向 湖  面
-  z/A/ A/C/ D/ E/-D/ D/
+  z/A/ A/C/ D/ E/-D/ D/|
 w:飞奔在夜 色 * 里
-  D  D  D D E  F E 
+  z/D/  D/D/ D/E/ F/E/| 
 w:积攒的思念成疾
-  E  E D  D  C A,
+  z/E/ E/D/ D/C A,/|
 w:总该有人代替
-  A  A A  A  c B
+  z/A/ A/A/ A/ c B/|
 w:反复的生活里
-  A  G C  D E-D D
-w:寻求一丝生 机
-  D  D  D  E F E
-w:谢谢我 发现了
-  F E  C  C
+  z/A/ G/C/ D/ E/-D/ D/|
+w:寻求一丝生   *  机
+  z/D/ D/D/ E/F E/|-E/
+w:谢谢我 发 现 了
+  F/ E  C  C|
 w:你的秘密
-  A  A  A A  B c B
+  z/A/ A/A/  A/B/ c/B/|
 w:我搜寻过往事迹
-  B  A  C D E-D D
-w:赢得一份荣  誉
-  D  D  D D E  F  E
+  z/B/ A/C/ D/ E/-D/ D/|
+w:赢得一份荣  * 誉
+  z/D/ D/D/ D/E/  F/E/|
 w:将秘密公之于众
-  E  E D  D  C A,
+  z/E/ E/D/  D/ C A,/|
 w:永远坚守正义
-  A  A  A A B  c B
+  z/A/ A/A/ A/B/  c/B/|
 w:直到我如临大敌
-  A-G G G D-E  D
-w:睡  梦中 惊  醒
-  D  D D  D F  E
+  z/A/-G/G/ G/ D/-E/  D/|
+w:睡 *  梦  中 惊 *    醒
+  z/D/ D/D/ D/F  E/|-E/
 w:才明白你是我
-  E B, C 
+  zE/ B, C|-C  
 w:我是你
