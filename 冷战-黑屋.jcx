@@ -1,8 +1,8 @@
 %MUSE2
-T: 我是你
+T: 冷战
 M: 4/4
 L: 1/4
-C:拍速:146
+C:拍速:150
 C:靳晓忠
 K: B
 V: 1 style=tab
@@ -26,11 +26,11 @@ V: 2 style=jianpu
 
 
 [V: 2]
-  z/A/ A/F/ F/ A/-F/ F/|
+  A/A/ F/ F A/-F/ F/|
 w:无来由的争   *   端 
-  z/A/ A/F/ F/ A/-F/ F/|
+  A/ A/F/ F A/-F/ F/|
 w:无处去的猜   *   想
-  z/A/ A/F/ F/ A/-F/ F/|
+  A/ A/F/ F A/-F/ F/|
 w:无目的的浪   *   漫
   z/E/ E/D/ D/C/ D/-A,/ |
 w:无所事事的流 *   
@@ -44,17 +44,17 @@ w:阳 我回头 看
 w:你来* 时的模样
   z/A/ A/F/ F/F/ A/-F/|
 w:我也擅长冷战
-  z/A A/F/ F/F/ A/-F/|
+  z/A/ A/F/ F/F/ A/-F/|
 w:却也无处施展
   z/A/ A/F/ F/F/ A/-F/|
 w:掀起笔直的巨
    F/E/ E/D/ C/D/ E |
 w:浪 滑动意念的桨
-  A/A/ F/F/ F/ A/-F/ F/|
-w:像你最后的礼让
-  z/A/ A/F/ F A/-F/|
-w:像诚实的冰川
-   F/A/ A/A/ A|
+  A/A/ F/F/ F/ A/-F/|
+w:像你最后的礼  
+  F/A/ A/F/ F A/-F/|
+w:让像诚实的冰川
+   F/A/ A/A/ A
 w:我呀我呀
-  A c
+  A/c/-|c
 w:你呀
