@@ -4,7 +4,7 @@ M: 4/4
 L: 1/4
 C:拍速:146
 C:靳晓忠
-K: Bb
+K: G
 V: 1 style=tab
 V: 2 style=jianpu
 
@@ -19,7 +19,7 @@ V: 2 style=jianpu
 |"D"V[axaxcxdxex] V[axbxcx/]U[axbxcx/]-V[axbxcx/]U[axbxcx/]V[axbxcx/]U[axbxcx/]|"G"V[axaxcxdxex] V[axbxcx/]U[axbxcx/]-V[axbxcx/]U[axbxcx/]V[axbxcx/]U[axbxcx/]|
 
 |"Em"V[axaxcxdxex] V[axbxcx/]U[axbxcx/]-V[axbxcx/]U[axbxcx/]V[axbxcx/]U[axbxcx/]|"G"V[axaxcxdxex] V[axbxcx/]U[axbxcx/]-V[axbxcx/]U[axbxcx/]V[axbxcx/]U[axbxcx/]
-|"D"V[axaxcxdxex] V[axbxcx/]U[axbxcx/]-V[axbxcx/]U[axbxcx/]V[axbxcx/]U[axbxcx/]|"Em"V[axaxcxdxex] V[axbxcx/]U[axbxcx/]-V[axbxcx/]U[axbxcx/]V[axbxcx/]U[axbxcx/]|
+|"D"V[axaxcxdxex] V[axbxcx/]U[axbxcx/]-V[axbxcx/]U[axbxcx/]V[axbxcx/]U[axbxcx/]|"Em"z z z V[axaxcxdxex]|
 
 
 
@@ -56,5 +56,5 @@ w:直到我如临大敌
 w:睡 *  梦  中 惊 *    醒
   z/D/ D/D/ D/F  E/|-E/
 w:才明白你是我
-  zE/ B, C|-C  
+  zE/ B, C|-A,
 w:我是你
